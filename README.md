@@ -1,7 +1,7 @@
 ## Hi, my name is Antônio Galvão or you can just call me by Galvs, and here it's my github ❤
 
 <div align="center">
-  <a href="https://github.com/doubty">
+  <a href="https://github.com/galvaotbb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doubty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doubty&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
