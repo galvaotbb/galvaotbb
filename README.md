@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/galvaotbb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galvaotbb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doubty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galvaotbb&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
@@ -20,7 +20,9 @@
   <img align="right" alt="Galvs-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/20348065?v=4">
   <img style="margin: 1rem" align="right" src="https://user-images.githubusercontent.com/30202634/89540902-0da24b80-d7d4-11ea-9614-ccf4bf42dfc6.png" width="300"/>
 </div>
+   
   ##
+  
 <div> 
   <a href="https://instagram.com/galvs_santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/Galvs_Santos" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
